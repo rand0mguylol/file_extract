@@ -1,0 +1,34 @@
+body {
+    padding: 15px;
+    background: #222222;
+    color: #ffffff;
+}
+
+.top-wrapper {
+    padding: 15px;
+    clear: both;
+    width: 100%;
+    height: 70px;
+}
+
+.top-wrapper img {
+    margin-right: 10px;
+    height: 70px;
+    float: left;
+}
+
+.top-wrapper h1 {
+    float: left;
+}
+
+.instruction-wrapper {
+    padding: 10px;
+}
+
+b.yellow {
+    color: yellow;
+}
+
+.display-wrapper, .form-wrapper {
+    padding: 10px;
+}
